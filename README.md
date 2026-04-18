@@ -1,4 +1,4 @@
-# 🌱 AquaYield
+# AquaYield
 
 we built this project to explore how machine learning can help farmers make smarter decisions about irrigation without wasting water or harming crops.
 
@@ -8,9 +8,9 @@ The model takes in environmental data like soil moisture, temperature, and humid
 
 ## What it does
 
-- 💧 Should this crop be irrigated right now?
-- 🌊 Is water being used efficiently?
-- 🌿 Is the plant stressed?
+- Should this crop be irrigated right now?
+- Is water being used efficiently?
+- Is the plant stressed?
 
 ---
 
